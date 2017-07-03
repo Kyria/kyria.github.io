@@ -45,6 +45,9 @@ footer {
    vertical-align: middle;
 }
 
+.collapse-title {
+  cursor: pointer;
+}
 .collapse-title:after {
    font-family: FontAwesome;
    content: "\f0d7";
