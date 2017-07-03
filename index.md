@@ -1,8 +1,7 @@
 ---
 layout: base
-title: Welcome
 ---
 
 <p>
-Here you can find the list of my docs.
+Please select in the header the documentation you want to read.
 </p>
